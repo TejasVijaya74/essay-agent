@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+transformers
+torch
+requests
+python-docx
+pydantic
+python-dotenv
+streamlit
+groq
